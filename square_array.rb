@@ -5,6 +5,6 @@ end
 
 def square_array(numbers)
   array=[]
-  array.each do
+  array.each
 end
 
