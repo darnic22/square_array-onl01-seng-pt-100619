@@ -1,5 +1,5 @@
 def square_array
-  array.map{|x| x +"!"}
+  
 end
 
 
